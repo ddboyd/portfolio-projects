@@ -1,10 +1,10 @@
 /**Comparing BTC and S&P 500 Daily Returns**/
 /*******************************************************************************************************
-They're two different asset classes.
+They're two different asset classes. The S&P 500's table name is GSPC. GSPC is the S&P 500's formal ticker symbol.
 Despite the desire of Crypto enthusiast to create an alternative and decentralized financial system,
 BTC and the Crypto market has shown to be affected by traditional macroeconomic and market forces.
 There has been a closer correlation between Bitcoin and the Nasdaq since the crypto 2020 Bull Market. 
-/*******************************************************************************************************/
+/*******************************************************************************************************
 BTC trades 24 hours each day.
 The S&P trades during regular market hours.
 The INNER JOIN joins those dates that both assets trade on the same day.
